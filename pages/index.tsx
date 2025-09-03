@@ -42,7 +42,7 @@ const GenomeVaultPlatform = () => {
   ];
 
   const partners = [
-    { name: "Seattle Children's", type: "Health System", datasets: 3, researchers: 45, status: "Active" },
+    { name: "Seattle Children&apos;s", type: "Health System", datasets: 3, researchers: 45, status: "Active" },
     { name: "Fred Hutch", type: "Research Institute", datasets: 8, researchers: 120, status: "Active" },
     { name: "Kaiser Permanente", type: "Health System", datasets: 12, researchers: 89, status: "Active" },
     { name: "Genmab Therapeutics", type: "Pharma", datasets: 2, researchers: 15, status: "Onboarding" }
